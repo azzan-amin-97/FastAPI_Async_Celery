@@ -1,2 +1,2 @@
-# async-flask-celery-flower
-Flask Asynchronous Task with Celery and Monitor with Flower
+# Flask Asynchronous Task with Celery and Flower
+Implementation of celery background task using Python Flask Framework and monitor the tasks using Flower
