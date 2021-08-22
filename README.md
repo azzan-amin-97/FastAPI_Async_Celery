@@ -1,7 +1,7 @@
 <h1 align='center'>
   FastAPI Asynchronous Task
 <span>
-  <img src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png" width='60px'>
+  <img src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png" width='30px'>
   </span>
 </h1> 
 <br>
