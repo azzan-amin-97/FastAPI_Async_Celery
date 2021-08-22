@@ -4,7 +4,6 @@
   <img src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png" width='30px'>
   </span>
 </h1> 
-<br>
   <h2 align='center'>
   Celery 
    <span>
