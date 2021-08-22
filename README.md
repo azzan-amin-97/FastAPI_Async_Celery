@@ -18,4 +18,4 @@
   Flower
 </h2>
 Implementation of celery background task using FastAPI and monitor the tasks using Flower. The RabbitMQ service will used as the message broker.
-
+<a href="https://medium.com/thelorry-product-tech-data/celery-asynchronous-task-queue-with-fastapi-flower-monitoring-tool-e7135bd0479f?source=friends_link&sk=ad4c2c82ad86c016165aadc13dc45e79">Click here to see the full article/tutorial!</a>
