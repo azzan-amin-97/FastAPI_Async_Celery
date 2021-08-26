@@ -18,6 +18,7 @@ def create_order(name, quantity):
     complete_time_per_item = 5
     # Keep increasing depending on item quantity being ordered
     sleep(complete_time_per_item * quantity)
+    # Display Log
     celery_log.info(f"Order Complete!")
     return {"message": f"Hi {name}, Your order has completed!",
             "order_quantity": quantity}
